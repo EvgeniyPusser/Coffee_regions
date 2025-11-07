@@ -16,15 +16,20 @@ body {
     /*background-repeat: no-repeat;*/
     background-size: cover;
     /*padding-top: 115px;*/
+    border: black solid 1px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    box-sizing: border-box;
 
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 50px;
     font-family: 'Covered+By+Your+Grace', cursive;
     color: rgb(3, 155,100, 0.75);
     text-align: center;
-    /*margin: 50px;*/
-    line-height: 400px;
+    /*margin-top: 50px;*/
+    /*margin-bottom: 50px;*/
+    /*line-height: 400px;*/
 }
 
