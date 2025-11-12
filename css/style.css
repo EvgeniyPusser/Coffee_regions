@@ -73,11 +73,17 @@ body {
     letter-spacing: 2px;
 }
  .right{
-    position: relative;
-    left: 50%;
-     bottom: 1070px;
-
-}
+    position: absolute;
+    right: 0;
+     top: 0;
+ }
 .main > div{
     width: 50%;
+}
+.main{
+    position: relative;
+}
+.left{
+    position: absolute;
+    left: 0;
 }
